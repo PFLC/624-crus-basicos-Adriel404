@@ -3,6 +3,8 @@
 
 Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete) simple. Es una demostración básica de cómo integrar PHP con una base de datos MySQL para gestionar datos de usuarios. La aplicación permite a los usuarios agregar, ver, editar y eliminar información de usuario.
 
+La implementación del CRUD (Crear, Leer, Actualizar y Eliminar por sus siglas en ingles) en PHP junto con bases de datos proporciona una herramienta poderosa para la gestión de datos en aplicaciones web. Al combinar HTML y PHP, es posible crear formularios para ingresar datos, mostrar información, actualizar registros y eliminar datos de manera eficiente y segura.
+
 ## Tecnologías Utilizadas
 
 - **PHP:** Lenguaje de script del lado del servidor utilizado para el desarrollo web.
@@ -64,4 +66,14 @@ Esta aplicación es una demostración básica y no implementa medidas avanzadas 
 ---
 
 Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier consulta o problema, por favor abre un issue en este repositorio.
+
+## ALgunos ejemplos de los CRUD
+
+"Create (Crear)": Esta acción se refiere a la creación o inserción de nuevos registros en nuestra tabla de datos. Ejemplo, podría representar la publicación de un nuevo post en la pestaña de comunidad de Youtube
+
+"Read (Leer)": Permite consultar registros específicos en otro contexto, buscar información. Ejemplo,
+
+"Update (Actualizar)": Hace referencia a la acción de cambiar la información de un registro. Ejemplo, editar algun comentario de Facebook con errores de ortografía.
+
+"Delete (Borrar):" Su función es borrar un registro.
 
